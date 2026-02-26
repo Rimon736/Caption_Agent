@@ -1,4 +1,0 @@
-install - pip install google-generativeai yake streamlit python-dotenv
-run- streamlit run main.py
-
-if gemini version issu - pip install --upgrade google-generativeai 
