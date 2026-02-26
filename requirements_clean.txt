@@ -1,0 +1,5 @@
+streamlit==1.40.0
+Pillow==10.2.0
+google-generativeai==0.7.1
+python-dotenv==1.0.1
+yake==0.4.8
